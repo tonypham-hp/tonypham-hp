@@ -19,4 +19,3 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 [![Email](https://img.shields.io/badge/Email-quanghuybk25%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quanghuybk25@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huy%20Phạm-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-ph%E1%BA%A1m-a1455229a)
 [![Facebook](https://img.shields.io/badge/Facebook-Huy%20Phạm-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tonypham250205?locale=vi_VN)
-[![Instagram](https://img.shields.io/badge/Instagram-tonypham__hp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tonypham_hp)
