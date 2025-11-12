@@ -1,32 +1,22 @@
 # 👋 Hi there, I'm Huy Pham
 
-🎯 **AI Engineer Intern** passionate about building intelligent systems and applying Machine Learning to real-world problems.
+Welcome to my GitHub! I’m tonypham_hp, passionate about AI, innovation, intelligent systems, and applied technology.
 
----
+# About Me
+- **Experience & Focus**: Practical work in AI and IoT — developing computer vision, RAG, and RC robotics systems.  
+- **Skill**: Python, PyTorch, Arduino. 
+- **Passion**: Inspired by *Tony Stark* — blending creativity, engineering, and AI for real-world innovation.  
 
-### 🧠 About Me
-- 📚 AI student at **FPT University**, focusing on Computer Vision and LLM applications.  
-- 🤖 Experienced with **YOLOv8**, **LangChain**, and **RAG pipelines** for retrieval-augmented systems.  
-- 🧩 Strong interest in building end-to-end AI pipelines — from data collection to model deployment.
+# What I'm Working On
+- Currently, I’m developing AI–IoT systems that power intelligent camera and vehicle applications for education and daily life.
 
----
+# Get in Touch
 
-### 🚀 Featured Projects
-- 🔹 [**VietRAG**](https://github.com/tonypham-hp/VietRAG_-_Chatbot-financial): Hybrid RAG system for Vietnamese financial data.  
-- 🔹 [**Football AI**](https://github.com/tonypham-hp/Football-AI): Object detection and match analytics with YOLOv8.  
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 
----
+# Let's Connect
 
-### 🧰 Tech Stack
-Python • PyTorch • TensorFlow • LangChain • HuggingFace • OpenCV • Roboflow • Streamlit • Google Colab
-
----
-
-### 📬 Contact
-📧 quanghuybk25@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/huy-ph%E1%BA%A1m-a1455229a)  
-📸 [Facebook](https://www.facebook.com/tonypham2503)
-
----
-
-> _“Building AI systems that connect data, intelligence, and creativity.”_
+[![Email](https://img.shields.io/badge/Email-quanghuybk25%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quanghuybk25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huy%20Phạm-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-ph%E1%BA%A1m-a1455229a)
+[![Facebook](https://img.shields.io/badge/Facebook-Huy%20Phạm-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tonypham250205?locale=vi_VN)
+[![Instagram](https://img.shields.io/badge/Instagram-tonypham__hp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tonypham_hp)
