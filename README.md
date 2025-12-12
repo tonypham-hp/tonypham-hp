@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m tonypham_hp, passionate about AI, innovation, intelligent systems, and applied technology.
 
-# About Me
+# About Me 
 - **Experience & Focus**: Practical work in AI and IoT — developing computer vision, RAG, and RC robotics systems.  
 - **Skill**: Python, PyTorch, Arduino. 
 - **Passion**: Inspired by *Tony Stark* — blending creativity, engineering, and AI for real-world innovation.  
